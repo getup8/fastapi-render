@@ -2,6 +2,7 @@
 name = "fastapi-render"
 version = "0.1.0"
 description = "An example API using FastAPI on Render"
+authors = [""]
 
 [tool.poetry.dependencies]
 python = "^3.10"
